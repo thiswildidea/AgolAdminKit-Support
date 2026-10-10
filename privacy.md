@@ -2,9 +2,10 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy — AGOL-Enterprise Admin Kit
+# Privacy Policy — Portal One For ArcGIS
 
-**Effective 24 September 2026.**
+**Effective 24 September 2026.** Portal One For ArcGIS was previously called AGOL-Enterprise
+Admin Kit; this policy covers it under either name.
 
 ## The short version
 
@@ -87,9 +88,9 @@ the application's storage folder.
 
 ---
 
-# 隐私政策 — AGOL-Enterprise Admin Kit
+# 隐私政策 — Portal One For ArcGIS
 
-**生效日期：2026 年 9 月 24 日**
+**生效日期：2026 年 9 月 24 日**。Portal One For ArcGIS 原名 AGOL-Enterprise Admin Kit，本政策对两个名称同样适用。
 
 ## 一句话版本
 

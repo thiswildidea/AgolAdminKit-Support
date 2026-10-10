@@ -2,12 +2,20 @@
 title: Support
 ---
 
-# AGOL-Enterprise Admin Kit — Support
+# Portal One For ArcGIS — Support
 
 A Windows desktop application for auditing and maintaining ArcGIS Online and
-ArcGIS Enterprise organizations: taking inventory of content, reporting
-findings with the evidence behind them, backing items up, and transferring a
-departing member's content to someone else with a record that can be undone.
+ArcGIS Enterprise organizations: inventory and map viewers, evidence-backed
+findings, backup, member and license administration on the Organization page,
+reversible transfers and a Changes journal for everything the tool writes to
+the portal.
+
+**Why "Portal One For ArcGIS".** ArcGIS Online and ArcGIS Enterprise are both,
+at heart, a portal, so the single word "Portal" covers both of them — and it is
+what the application calls them too, on its **Portals** page where you add
+them. "One" is the application: one place for every portal you work with,
+several of them signed in at once. "For ArcGIS" says which platform it is built
+for. Portal One For ArcGIS was previously called AGOL-Enterprise Admin Kit.
 
 ## Getting help
 
@@ -39,9 +47,11 @@ guess and a fix.
 
 ---
 
-# AGOL-Enterprise Admin Kit — 支持
+# Portal One For ArcGIS — 支持
 
 一款用于审计和维护 ArcGIS Online 与 ArcGIS Enterprise 组织的 Windows 桌面应用：清点内容、给出带证据的发现项、备份条目，以及把离职成员的内容转移给他人并留下可撤销的记录。
+
+**为什么叫 Portal One For ArcGIS。** ArcGIS Online 和 ArcGIS Enterprise 本质上都是“门户”（Portal），所以 **Portal** 一个词就同时涵盖了两者，本应用里添加它们的**门户**页面也是这么叫的。**One** 就是这一个应用：你用到的所有门户都在这里管理，还可以同时登录多个。**For ArcGIS** 表明它是为 ArcGIS 平台打造的。Portal One For ArcGIS 原名 AGOL-Enterprise Admin Kit。
 
 ## 获取帮助
 
