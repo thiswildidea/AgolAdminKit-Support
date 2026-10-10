@@ -1,3 +1,16 @@
-title: AGOL-Enterprise Admin Kit
-description: Support and privacy policy
+title: Portal One For ArcGIS
+description: Support, help and privacy policy
 theme: jekyll-theme-minimal
+
+# The app's Help page reads help/<language>.md as plain text, so the Markdown files have
+# to be published as they are, beside the pages rendered from them. A Markdown file
+# without front matter is both (jekyll-optional-front-matter keeps the original unless
+# told otherwise); this is said here so that nobody tells it otherwise.
+optional_front_matter:
+  remove_originals: false
+
+defaults:
+  - scope:
+      path: "help"
+    values:
+      layout: "help"

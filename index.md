@@ -17,6 +17,14 @@ them. "One" is the application: one place for every portal you work with,
 several of them signed in at once. "For ArcGIS" says which platform it is built
 for. Portal One For ArcGIS was previously called AGOL-Enterprise Admin Kit.
 
+## Help
+
+The [help](help/), with a screenshot of each page, is on this site in all fourteen
+languages of the application — [English](help/en-US.html),
+[简体中文](help/zh-Hans.html) and the others. The application's Help page reads
+the same pages, and shows the help installed with it when this site cannot be
+reached. That is the fastest answer for most questions.
+
 ## Getting help
 
 Email **gaqo@outlook.com**. It helps to include:
@@ -29,14 +37,11 @@ Please do not attach passwords, tokens, or files from the application's storage
 folder. None of those are needed to diagnose a problem, and the storage folder
 contains your sign-in tokens.
 
-The application ships with help in fourteen languages, reachable from the Help
-page inside it. That is the fastest answer for most questions.
-
 ## Privacy
 
 The application collects nothing — no analytics, no telemetry, no crash
 reporting. See the [Privacy Policy](privacy) for what it stores on your own
-computer and what it sends to your portal.
+computer and what it sends, and to whom.
 
 ## Reporting something that looks wrong
 
@@ -49,9 +54,13 @@ guess and a fix.
 
 # Portal One For ArcGIS — 支持
 
-一款用于审计和维护 ArcGIS Online 与 ArcGIS Enterprise 组织的 Windows 桌面应用：清点内容、给出带证据的发现项、备份条目，以及把离职成员的内容转移给他人并留下可撤销的记录。
+一款用于审计和维护 ArcGIS Online 与 ArcGIS Enterprise 组织的 Windows 桌面应用：内容盘点与地图查看器、附带证据的分析结果、备份、在“组织”页面管理成员与许可，以及可撤销的转移和记录应用对门户所做每项更改的“更改记录”。
 
 **为什么叫 Portal One For ArcGIS。** ArcGIS Online 和 ArcGIS Enterprise 本质上都是“门户”（Portal），所以 **Portal** 一个词就同时涵盖了两者，本应用里添加它们的**门户**页面也是这么叫的。**One** 就是这一个应用：你用到的所有门户都在这里管理，还可以同时登录多个。**For ArcGIS** 表明它是为 ArcGIS 平台打造的。Portal One For ArcGIS 原名 AGOL-Enterprise Admin Kit。
+
+## 帮助
+
+[帮助](help/)附有每个页面的截图，本网站提供应用支持的全部十四种语言——[简体中文](help/zh-Hans.html)、[English](help/en-US.html) 等。应用内的“帮助”页面读取的就是这些页面；无法访问本网站时，显示随应用安装的帮助。大多数问题在那里能最快找到答案。
 
 ## 获取帮助
 
@@ -63,11 +72,9 @@ guess and a fix.
 
 请**不要**附上密码、令牌，或应用存储文件夹里的文件。诊断问题不需要这些，而那个文件夹里存着你的登录令牌。
 
-应用内置了十四种语言的帮助文档，从应用里的"帮助"页面即可打开。大多数问题在那里能最快找到答案。
-
 ## 隐私
 
-本应用不收集任何数据——没有分析统计、没有遥测、没有崩溃上报。应用在你自己电脑上保存了什么、向你的门户发送了什么，详见[隐私政策](privacy)。
+本应用不收集任何数据——没有分析统计、没有遥测、没有崩溃上报。应用在你自己电脑上保存了什么、向谁发送了什么，详见[隐私政策](privacy)。
 
 ## 报告你认为不对的结果
 
