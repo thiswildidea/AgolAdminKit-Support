@@ -177,6 +177,10 @@ nepřipnete. **Změna jazyka se projeví při příštím startu**, nabízená t
 tlačítkem, protože framework čte text každé obrazovky jednou, při jejím
 sestavení: okamžité použití by změnilo jen to, co se otevře potom.
 
+**Předplatné** je to, co snímá značku ze stránek, a nic dalšího za ním nestojí: přihlášení k portálu, jeho inventura, záloha a tisk mapy zůstávají zdarma, ať už je zaplaceno, nebo ne. Je to měsíční předplatné kupované přes Microsoft Store, které lze kdykoli zrušit; jakmile existuje, karta říká, kolik stojí a kdy se obnoví. *Obnovit nákup* je pro případ, že jste zaplatili a značka je tu pořád: předplatné mohlo být koupeno ve vlastním okně Store, o čemž se tato aplikace nedozví.
+
+**Vodoznak** vloží vlastní řádek do pravého dolního rohu každé stránky: nejvýše dvacet čtyři znaků, v písmu, velikosti, tloušťce, barvě a síle, které zvolíte za **Další nastavení** — karta sama neukazuje nic než přepínač, který ho zapíná. Začíná jako třicet pixelů výrazné červené v plné síle a každých šest minut se minutu pohybuje po stránce: pět minut v rohu, minutu na cestě, pak zpět do rohu. Pohybuje se proto, že kdo dělá snímek okna, rozhoduje o tom, kde budou jeho okraje, a roh je ta část, která nejlehčeji zůstane mimo záběr; odpočívá proto, že na stránce, na které se pracuje, by neměl řádek procházet přes její řádky — přepínač, který pohyb úplně vypne, je za **Další nastavení**. Je zapnutý, když sem přijdete poprvé, a čte se *Bez předplatného* — co z aplikace odejde, je viděno někde, kde nic neříká, čím bylo uděláno. **Síla** je, kolik z té barvy se použije: úplně dole vyjde každá barva jako stejný bledý nádech, takže samotná barva neodpoví, jak je to vidět. Prázdný řádek se vrací k výchozímu textu. Dokud si nepředplatíte, na této kartě se nedá nic změnit — ani přepínač, ani text: čte se *Bez předplatného* a stisknutí otevře kartu výše; předplatné je to, co dovolí ji vypnout a zvolit, co říká; když nic nezvolíte, čte se jméno aplikace. Označuje se obrazovka: obrázky, které aplikace ukládá, přicházejí z tiskové služby portálu a odcházejí tak, jak je portál poslal.
+
 ## Klávesnice
 
 V kterékoli z tabulek:
