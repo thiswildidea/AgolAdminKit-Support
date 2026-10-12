@@ -4,11 +4,12 @@ title: Privacy Policy
 
 # Privacy Policy — Portal One For ArcGIS
 
-**Effective 10 October 2026.** Portal One For ArcGIS was previously called AGOL-Enterprise
-Admin Kit; this policy covers it under either name. The version before it, effective 24
-September 2026, said the application talks to your portal alone and never writes a
-password to disk; it also talks to map services and to this website, and keeps a password
-when you ask it to, as described below.
+**Effective 12 October 2026.** Portal One For ArcGIS was previously called AGOL-Enterprise
+Admin Kit; this policy covers it under either name. The versions before it, effective 24
+September and 10 October 2026, left out Microsoft Store, which the application asks about
+updates and about its optional subscription; the first of them also said it talks to your
+portal alone and never writes a password to disk, when it also talks to map services and to
+this website and keeps a password when you ask it to — all as described below.
 
 ## The short version
 
@@ -19,8 +20,9 @@ run, not on failure, not ever.
 
 The application talks to the ArcGIS Online or ArcGIS Enterprise portals whose
 addresses **you** enter, to the map services, basemaps and elevation data their
-content points at, and to this website, from which its Help page reads the help.
-Everything it produces stays on your computer.
+content points at, to this website, from which its Help page reads the help, and
+to Microsoft Store, about updates and the optional subscription. Everything it
+produces stays on your computer.
 
 ## What the application stores, and where
 
@@ -84,13 +86,24 @@ organization. GitHub's privacy statement covers what GitHub Pages records. When
 the website cannot be reached, the help installed with the application is shown
 instead.
 
+**To Microsoft Store**, through Windows' own Store services: whether a newer
+version of the application is available, and — for the optional monthly
+subscription that takes the "Not subscribed" mark off its pages — what the
+subscription costs and whether your Microsoft account holds it. Buying,
+renewing and cancelling it happen in Microsoft Store's own windows, and payment
+is handled by Microsoft under Microsoft's privacy statement. The application
+sends nothing of yours with these requests — no portal, no token, no content —
+and keeps no record of a purchase: it asks the Store again each time it starts.
+
 There is no other network destination, and there is no developer server:
 nothing the application sends reaches the developer.
 
 ## What the developer can see
 
-Nothing. There is no account, no registration, and no server to collect
-anything. If you write to the support address below, the developer sees only
+Nothing from the application. There is no account, no registration, and no
+server to collect anything. If you subscribe, Microsoft gives the developer the
+sales and acquisition reports it gives every publisher in its Store, which do not
+identify you. If you write to the support address below, the developer sees only
 what you choose to put in that email.
 
 ## Children
@@ -115,13 +128,13 @@ the application's storage folder.
 
 # 隐私政策 — Portal One For ArcGIS
 
-**生效日期：2026 年 10 月 10 日**。Portal One For ArcGIS 原名 AGOL-Enterprise Admin Kit，本政策对两个名称同样适用。上一版（2026 年 9 月 24 日生效）写的是应用只与你的门户通信、从不把密码写入磁盘；实际上它还会访问地图服务和本网站，并会在你要求时保存密码，详见下文。
+**生效日期：2026 年 10 月 12 日**。Portal One For ArcGIS 原名 AGOL-Enterprise Admin Kit，本政策对两个名称同样适用。之前的两版（2026 年 9 月 24 日和 10 月 10 日生效）都漏写了 Microsoft Store——应用会向它查询更新和可选的订阅；其中 9 月 24 日那版还写着应用只与你的门户通信、从不把密码写入磁盘，而实际上它还会访问地图服务和本网站，并会在你要求时保存密码。详见下文。
 
 ## 一句话版本
 
 本应用**不收集任何数据**。没有分析统计，没有遥测，没有崩溃上报服务。关于你、你的组织、你如何使用本应用的任何信息，都不会发送给开发者或任何第三方——首次运行时不会，出错时不会，任何时候都不会。
 
-本应用与以下服务器通信：**你自己填写地址**的 ArcGIS Online 或 ArcGIS Enterprise 门户，门户内容所指向的地图服务、底图和高程数据，以及本网站——应用的“帮助”页面从这里读取帮助。它产生的一切都留在你自己的电脑上。
+本应用与以下服务器通信：**你自己填写地址**的 ArcGIS Online 或 ArcGIS Enterprise 门户，门户内容所指向的地图服务、底图和高程数据，本网站（应用的“帮助”页面从这里读取帮助），以及 Microsoft Store（查询更新和可选的订阅）。它产生的一切都留在你自己的电脑上。
 
 ## 本应用保存什么，保存在哪
 
@@ -154,11 +167,13 @@ the application's storage folder.
 
 **发给本网站**的，是你打开“帮助”页面时的请求：应用从 `thiswildidea.github.io`（由 GitHub Pages 提供）下载应用界面语言的帮助及其截图，让帮助保持最新。请求中只包含所需帮助的语言，并且和互联网上的任何请求一样，来自你的网络地址；它不带令牌、不带账号，也不含任何关于你组织的信息。GitHub Pages 会记录什么，由 GitHub 的隐私声明说明。无法访问本网站时，改为显示随应用安装的帮助。
 
+**发给 Microsoft Store**的，经由 Windows 自带的应用商店服务：是否有新版本可以更新；以及可选的按月订阅（用于去掉页面上的“未订阅”标记）的价格、你的 Microsoft 账户是否已经订阅。购买、续订和取消都在 Microsoft Store 自己的窗口中进行，付款由 Microsoft 依据其隐私声明处理。这些请求不携带你的任何信息——没有门户、没有令牌、没有内容——应用也不保存购买记录，每次启动时重新向应用商店询问。
+
 除此之外没有任何其他网络目的地，**也不存在开发者服务器**：应用发出的任何内容都不会到达开发者手中。
 
 ## 开发者能看到什么
 
-什么也看不到。本应用没有账号体系、无需注册，也不存在任何用于收集信息的服务器。如果你写信到下面的支持邮箱，开发者能看到的只有你自己写进那封邮件的内容。
+应用不会让开发者看到任何东西。本应用没有账号体系、无需注册，也不存在任何用于收集信息的服务器。如果你订阅，Microsoft 会向开发者提供它给每个商店发布者的销售和获取报告，这些报告不会识别出你。如果你写信到下面的支持邮箱，开发者能看到的只有你自己写进那封邮件的内容。
 
 ## 儿童
 
